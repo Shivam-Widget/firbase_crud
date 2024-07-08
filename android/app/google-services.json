@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202894940432",
+    "project_id": "basicapp-32c88",
+    "storage_bucket": "basicapp-32c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202894940432:android:d3dc514d92cfd19fb86d95",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkuDxZVlyuAIJmZdxl8mOemj1ybG-K_H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
